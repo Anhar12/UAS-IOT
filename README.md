@@ -1,5 +1,8 @@
 # AIR QUALITY MONITORING SYSTEM
 
+## Deskripsi
+Air Quality Monitoring System adalah sebuah sistem yang dapat digunakan untuk monitoring kualitas udara pada suatu tempat tertentu. Sistem dapat menampilkan data dari sensor yang terpasang pada perangkat IoT Publisher, seperti suhu, kelembapan, Ozone, PM2.5, CO, dan NO2. Selain itu sistem juga dapat memonitoring perangkat IoT Subscriber yang telah dirancang pada website Wokwi. Perangkat IoT subscriber memiliki beberapa komponen seperti LED RGB, LED BAR GRAPH, dan LCD I2C 20x4 yang dapat menampilkan data kualitas udara secara real-time selama perangkat dalam keadaan aktif.
+
 ## Board Schematic Subscriber
 ![image](https://github.com/Anhar12/UAS-IOT/assets/92861249/d6859346-63a5-4c70-8d38-0bd3ebc8702d)
 
