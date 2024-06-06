@@ -8,6 +8,7 @@
 - 1 LED RGB
 - 1 LED BAR GRAPH
 - 1 LCD I2C 20x4
+- 18 Kabel Jumper
 
 ## Diagram Alur
 ![diagramBlokUAS](https://github.com/Anhar12/UAS-IOT/assets/92861249/b41f2958-ccac-4158-8df1-bad60a3c842f)
