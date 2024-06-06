@@ -16,6 +16,6 @@
 https://wokwi.com/projects/399054463485807617
 
 ## Screen Shoot Aplikasi
-![image](https://github.com/Anhar12/UAS-IOT/assets/92861249/6b668dd1-dbed-499d-ae6e-a7b53fe4fbbb)
+![ssUasIOT](https://github.com/Anhar12/UAS-IOT/assets/92861249/a4ebeda3-b89f-4369-8946-f7fad352a86c)
 
 ## Pengujian
